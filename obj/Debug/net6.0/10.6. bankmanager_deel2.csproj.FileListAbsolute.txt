@@ -1,0 +1,15 @@
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\bin\Debug\net6.0\10.6. bankmanager_deel2.exe
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\bin\Debug\net6.0\10.6. bankmanager_deel2.deps.json
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\bin\Debug\net6.0\10.6. bankmanager_deel2.runtimeconfig.json
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\bin\Debug\net6.0\10.6. bankmanager_deel2.dll
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\bin\Debug\net6.0\10.6. bankmanager_deel2.pdb
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.csproj.AssemblyReference.cache
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.AssemblyInfoInputs.cache
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.AssemblyInfo.cs
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.csproj.CoreCompileInputs.cache
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.dll
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\refint\10.6. bankmanager_deel2.dll
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.pdb
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\10.6. bankmanager_deel2.genruntimeconfig.cache
+D:\multimedi\Cscherp\10.6. bankmanager_deel2\obj\Debug\net6.0\ref\10.6. bankmanager_deel2.dll
